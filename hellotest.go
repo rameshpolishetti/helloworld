@@ -1,3 +1,3 @@
 package helloworld
 
-const TEST_VERSION = 3
+const TEST_VERSION = 4
