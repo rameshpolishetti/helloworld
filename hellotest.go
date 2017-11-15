@@ -1,3 +1,12 @@
-package helloworld
+package main
 
-const TEST_VERSION = 4
+import (
+	"fmt"
+)
+
+var VERSION = "1.0"
+
+func main() {
+
+	fmt.Printf("VERSION: %v \n", VERSION)
+}
